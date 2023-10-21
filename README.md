@@ -1,7 +1,11 @@
 Variables in the code:
+
 'string' is the string the user wishes to change a string from
+
 'change_this' is the string the user wants to change
+
 'change_to' is the string the user wants to change 'change_this' to
+
 'result' is 'string' with all instances of 'change_this' converted to 'change_to'
 
 The following code description will refer to the variables stated before to explain the code:
